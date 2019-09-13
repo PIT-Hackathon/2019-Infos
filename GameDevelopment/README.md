@@ -185,7 +185,7 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
     - [Exchange 3d](http://www.exchange3d.com/FreeModels/cat_35.html)
 - Coding Challanges
     - [CodeWars](https://www.codewars.com/)
-    - [Codeacademy] (https://www.codecademy.com/)
+    - [Codeacademy](https://www.codecademy.com/)
     - [Zoombowi](https://zoombowi.com/)
     - [exercism.io](http://exercism.io/)
     - [freeCodeCamp](https://www.freecodecamp.com/)
@@ -195,7 +195,7 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
     - [CodinGame](https://www.codingame.com/)
     - [The Odin Project](http://www.theodinproject.com/)
     - [Codeeasy](http://codeasy.net/)
-    - [LiveEdu.tv][(https://www.liveedu.tv/)
+    - [LiveEdu.tv](https://www.liveedu.tv/)
 
 ## Cheat Sheets (Merkblätter über die wichtigsten Befehle und Funktionen eine Software)
 
