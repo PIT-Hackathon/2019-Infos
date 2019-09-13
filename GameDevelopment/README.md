@@ -154,6 +154,7 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
 - Tools
     - [Jesse Schell: A book of lense (Android App)](https://play.google.com/store/apps/details?id=com.schellgames.deckoflenses&hl=de)
     - [MDA Framework: A Formal Approach to Game Design and Game Research](http://www.cs.northwestern.edu/~hunicke/MDA.pdf)
+- Game Design Documet (Vorlage)
     - [High Concept Document Template](https://www.dropbox.com/s/cit5rsx8f5d5o6b/HighConceptTemplate.pdf?dl=0)
     - [One Page Game Design Document Template](https://www.dropbox.com/s/xfmzl2d64teinre/OnePageGameDesignDocument.pdf?dl=0)
     - [Game Story Bible Template](https://www.dropbox.com/s/hapw4l0bev115r5/GameStoryBibleTemplate.pdf?dl=0)
@@ -182,8 +183,19 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
     - [3d Xtras](http://www.3dxtras.com/index.asp)
     - [Artist-3d](http://www.artist-3d.com/)
     - [Exchange 3d](http://www.exchange3d.com/FreeModels/cat_35.html)
-    
-    
+- Coding Challanges
+    - [CodeWars](https://www.codewars.com/)
+    - [Codeacademy] (https://www.codecademy.com/)
+    - [Zoombowi](https://zoombowi.com/)
+    - [exercism.io](http://exercism.io/)
+    - [freeCodeCamp](https://www.freecodecamp.com/)
+    - [TreeHouse](https://teamtreehouse.com/)
+    - [Hackr.io](https://hackr.io/)
+    - [W3Schools](http://www.w3schools.com/)
+    - [CodinGame](https://www.codingame.com/)
+    - [The Odin Project](http://www.theodinproject.com/)
+    - [Codeeasy](http://codeasy.net/)
+    - [LiveEdu.tv][(https://www.liveedu.tv/)
 
 ## Cheat Sheets (Merkblätter über die wichtigsten Befehle und Funktionen eine Software)
 
