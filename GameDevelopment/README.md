@@ -197,7 +197,7 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
     - [Codeeasy](http://codeasy.net/)
     - [LiveEdu.tv](https://www.liveedu.tv/)
 - interessante kostenfreie assets aus dem Assetstore
-    - [[Prototyping](https://assetstore.unity.com/packages/tools/level-design/yume-free-77387)
+    - [Prototyping](https://assetstore.unity.com/packages/tools/level-design/yume-free-77387)
 
 ## Cheat Sheets (Merkblätter über die wichtigsten Befehle und Funktionen eine Software)
 
