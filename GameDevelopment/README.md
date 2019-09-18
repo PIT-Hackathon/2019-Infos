@@ -93,6 +93,7 @@ Wir wollen hier entwickeln, also machen wir es von Anfang an richtig. Da ist ein
 * Download: [https://git-scm.com](https://git-scm.com)
 * Anleitung: [tryGit - learn git in 15 minutes](https://try.github.io/levels/1/challenges/1)
 * MOOC: [Wie man Git und GitHub nutzt](https://de.udacity.com/course/how-to-use-git-and-github--ud775)
+* Anleitung: [Unity für Git konfigurieren](https://thoughtbot.com/blog/how-to-git-with-unity)
 
 ### 2. Code Editor 
 Ihr benötigt einen Text Editor um den Source Code schreiben zu können. Am besten einen mit Syntax Highlight, Code Vervollständigung und Validierung. Unser Vorschlag: Visual Studio Code 
